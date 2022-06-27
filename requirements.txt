@@ -20,3 +20,6 @@ pandarallel
 
 # 
 requests
+
+wordcloud
+pillow
