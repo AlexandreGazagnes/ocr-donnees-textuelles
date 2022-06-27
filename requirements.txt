@@ -11,8 +11,12 @@ matplotlib
 seaborn
 plotly
 
-
+# 
 sklearn
+
+
+pandarallel
+
 
 # 
 requests
