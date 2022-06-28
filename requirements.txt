@@ -2,24 +2,27 @@
 nltk
 spacy
 
+
 # 
 pandas
 numpy
+
 
 # 
 matplotlib
 seaborn
 plotly
+wordcloud
+pillow
+
 
 # 
 sklearn
 
 
-pandarallel
-
-
 # 
 requests
 
-wordcloud
-pillow
+
+# 
+pandarallel
